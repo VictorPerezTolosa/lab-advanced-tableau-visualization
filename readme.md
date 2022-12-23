@@ -1,3 +1,6 @@
+
+You can find this LAB done in my Tableau Public profile under the name of [unit-4-lab.tbwx dashboard 2.0](https://public.tableau.com/shared/GN5WZNST3?:display_count=n&:origin=viz_share_link).
+
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Advanced Tableau visualization
